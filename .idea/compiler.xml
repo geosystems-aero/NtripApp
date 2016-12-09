@@ -13,11 +13,11 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.7">
-      <module name="GNSS" target="1.5" />
+      <module name="GNSS" target="1.7" />
       <module name="JNtrip" target="1.7" />
       <module name="nmea" target="1.7" />
       <module name="NtripApp" target="1.7" />
-      <module name="NtripAppParent" target="1.5" />
+      <module name="NtripAppParent" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
