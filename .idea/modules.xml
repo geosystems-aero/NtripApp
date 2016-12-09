@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GNSS/GNSS.iml" filepath="$PROJECT_DIR$/GNSS/GNSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JNtrip/JNtrip.iml" filepath="$PROJECT_DIR$/JNtrip/JNtrip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NtripApp/NtripApp.iml" filepath="$PROJECT_DIR$/NtripApp/NtripApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NtripAppParent.iml" filepath="$PROJECT_DIR$/NtripAppParent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nmea/nmea.iml" filepath="$PROJECT_DIR$/nmea/nmea.iml" />
+    </modules>
+  </component>
+</project>

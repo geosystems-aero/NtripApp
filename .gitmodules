@@ -1,0 +1,9 @@
+[submodule "JNtrip"]
+	path = JNtrip
+	url = git@github.com:geosystems-aero/JNtrip
+[submodule "nmea"]
+	path = nmea
+	url = git@github.com:geosystems-aero/nmea
+[submodule "GNSS"]
+	path = GNSS
+	url = git@github.com:geosystems-aero/GNSS

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="GNSS" />
+        <module name="JNtrip" />
+        <module name="nmea" />
+        <module name="NtripApp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.7">
+      <module name="GNSS" target="1.5" />
+      <module name="JNtrip" target="1.7" />
+      <module name="nmea" target="1.7" />
+      <module name="NtripApp" target="1.7" />
+      <module name="NtripAppParent" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
